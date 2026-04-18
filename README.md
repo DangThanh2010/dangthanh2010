@@ -2,7 +2,7 @@
 **DangThanh2010/dangthanh2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-# Hi there 👋, my fullname is Thanh Dang Minh, you can call me Thanh.
+# Hi guys 👋, you can call me Thanh.
 
 ## 💁 About me
 
